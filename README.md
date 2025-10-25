@@ -3,7 +3,8 @@ Uriel Bowman/ Daison Horsham
 ITE 1100 
 Tutorial4
   The purpse of this repository is to provide us with a better grasp of github collab
-  Steps followed:
+  
+    Steps followed:
    
     git clone https://github.com/ArkSurvivalDevolve/boomroom
     cd boomroom
